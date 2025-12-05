@@ -12,6 +12,18 @@ dist
 dist-ssr
 *.local
 
+# Tauri
+src-tauri/target
+src-tauri/Cargo.lock
+
+# Build artifacts
+build/
+*.pkg
+*.deb
+*.AppImage
+*.msi
+*.exe
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
