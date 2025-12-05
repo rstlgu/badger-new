@@ -1,7 +1,0 @@
-pdfplumber
-pandas
-openpyxl
-python-mammoth
-pyperclip
-Pillow
-tk  # Per sistemi Linux che potrebbero non avere tkinter preinstallato
